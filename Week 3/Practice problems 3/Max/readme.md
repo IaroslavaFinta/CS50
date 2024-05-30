@@ -1,0 +1,1 @@
+There are many situations where you’ll find it helpful to have a function that finds the maximum (and minimum) value in an array. Since there is no built-in max function in C, you’ll create one in this practice problem. You can then use it in upcoming problem sets where it may be helpful!
